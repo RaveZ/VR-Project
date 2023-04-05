@@ -6,6 +6,6 @@
 /NAME:"UnrealEditor-RiderLink.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\GitHub\felix165\VR-Project\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Module.RiderLink.cpp.obj"
-"E:\GitHub\felix165\VR-Project\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Default.rc2.res"
-/OUT:"E:\GitHub\felix165\VR-Project\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink.lib"
+"D:\GitHub\VR-Project\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Module.RiderLink.cpp.obj"
+"D:\GitHub\VR-Project\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Default.rc2.res"
+/OUT:"D:\GitHub\VR-Project\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink.lib"
